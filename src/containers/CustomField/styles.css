@@ -1,0 +1,24 @@
+.layout-container {
+    padding: 5px;
+    margin: -28px 0;
+  }
+  
+  .layout-container .InstructionText {
+    text-align: left;
+    color: #647696;
+    display: block;
+    font-family: Inter;
+    font-size: 0.75rem;
+    line-height: 1.5;
+  }
+  
+  .layout-container .swatch {
+    padding: 5px;
+    background: #fff;
+    border-radius: 1px;
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 10%);
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  
